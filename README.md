@@ -45,9 +45,9 @@ Sistem ini cocok digunakan untuk:
 - Sekolah/Universitas (peminjaman fasilitas)
 
 ## d. Nama Kelompok
-**Kelompok Sistem Peminjaman Barang**
+**Kelompok 7**
 
-## e. Anggota Kelompok
+## e. Anggota Kelompok 
 
 | No | Nama Lengkap | NIM |
 |----|--------------|-----|
