@@ -69,8 +69,8 @@ Sistem ini cocok digunakan untuk:
 
 1. Clone repository
 ```bash
-git clone https://github.com/raisyaica/app-peminjaman.git
-cd app-peminjaman
+git clone https://github.com/raisyaica/SimPeminjaman.git
+cd SimPeminjaman
 ```
 
 2. Install dependencies
